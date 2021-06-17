@@ -1,5 +1,5 @@
 # COVID19-Diag
-`The usefulness of COVID19-Diag dataset was confirmed by two senior radiologists at the First Hospital of Changsha in China, who diagnosed and treated a large number of patients during the outbreak of COVID-19, and the First Hospital of Changsha is also the main COVID-19 diagnosis and treatment facility in Hunan Province.`
+The usefulness of COVID19-Diag dataset was confirmed by two senior radiologists at the First Hospital of Changsha in China, who diagnosed and treated a large number of patients during the outbreak of COVID-19, and the First Hospital of Changsha is also the main COVID-19 diagnosis and treatment facility in Hunan Province.
 
 Data Description
 ----
@@ -19,10 +19,11 @@ The CT volumes of all the cases are performed on a CT scanner as SIEMENS or GE M
 The dataset details are described in this article: Deep Supervised Learning Using Self-Adaptive Auxiliary Loss for COVID-19 Diagnosis from Imbalanced CT Images. This dataset is public, if you want to use it for related research, please contact the email: kaihu@xtu.edu.cn to sign the relevant agreement to obtain.
 
 If you find this dataset useful, please cite:
+
 @article{hu2021deep,
   title={Deep Supervised Learning Using Self-Adaptive Auxiliary Loss for COVID-19 Diagnosis from Imbalanced CT Images},
-  author={Hu, Kai and Huang, Yingjie and Huang, Wei and Tan, Hui and Chen, Zhineng and Zhong, Zheng and Li, Xuanya and Zhang, Yuan and Gao, Xieping},
-  journal={Neurocomputing},
-  year={2021},
-  publisher={Elsevier}
+  author={Hu, Kai and Huang, Yingjie and Huang, Wei and Tan, Hui and Chen, Zhineng and Zhong, Zheng and Li, Xuanya and Zhang, Yuan and Gao, Xieping},  
+  journal={Neurocomputing},  
+  year={2021},  
+  publisher={Elsevier}  
 }
