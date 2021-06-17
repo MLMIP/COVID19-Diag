@@ -16,6 +16,6 @@ The CT volumes of all the cases are performed on a CT scanner as SIEMENS or GE M
 || Bacterial Pneumonia | 980 | 409 |
 
 
-The dataset details are described in this article: Deep Supervised Learning Using Self-Adaptive Auxiliary Loss for COVID-19 Diagnosis from Imbalanced CT Images.
+The dataset details are described in this article: Deep Supervised Learning Using Self-Adaptive Auxiliary Loss for COVID-19 Diagnosis from Imbalanced CT Images. This dataset is public, if you want to use it for related research, please contact the email: kaihu@xtu.edu.cn to sign the relevant agreement to obtain.
 
 If you find this dataset useful, please cite:
