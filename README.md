@@ -26,6 +26,7 @@ OR
 
 @article{HU2021232,  
   title = {Deep supervised learning using self-adaptive auxiliary loss for COVID-19 diagnosis from imbalanced CT images},  
+  author = {Kai Hu and Yingjie Huang and Wei Huang and Hui Tan and Zhineng Chen and Zheng Zhong and Xuanya Li and Yuan Zhang and Xieping Gao},  
   journal = {Neurocomputing},  
   volume = {458},  
   pages = {232-245},  
