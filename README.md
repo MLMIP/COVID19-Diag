@@ -20,10 +20,14 @@ The dataset details are described in this article: Deep Supervised Learning Usin
 
 If you find this dataset useful, please cite:
 
-@article{hu2021deep,
-  title={Deep Supervised Learning Using Self-Adaptive Auxiliary Loss for COVID-19 Diagnosis from Imbalanced CT Images},
-  author={Hu, Kai and Huang, Yingjie and Huang, Wei and Tan, Hui and Chen, Zhineng and Zhong, Zheng and Li, Xuanya and Zhang, Yuan and Gao, Xieping},  
-  journal={Neurocomputing},  
-  year={2021},  
-  publisher={Elsevier}  
+[1] Hu K, Huang Y, Huang W, et al. Deep supervised learning using self-adaptive auxiliary loss for COVID-19 diagnosis from imbalanced CT images[J]. Neurocomputing, 2021, 458: 232-245.
+
+OR
+
+@article{HU2021232,
+title = {Deep supervised learning using self-adaptive auxiliary loss for COVID-19 diagnosis from imbalanced CT images},
+journal = {Neurocomputing},
+volume = {458},
+pages = {232-245},
+year = {2021}
 }
