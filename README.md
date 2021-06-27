@@ -24,10 +24,10 @@ If you find this dataset useful, please cite:
 
 OR
 
-@article{HU2021232,
-title = {Deep supervised learning using self-adaptive auxiliary loss for COVID-19 diagnosis from imbalanced CT images},
-journal = {Neurocomputing},
-volume = {458},
-pages = {232-245},
-year = {2021}
+@article{HU2021232,  
+  title = {Deep supervised learning using self-adaptive auxiliary loss for COVID-19 diagnosis from imbalanced CT images},  
+  journal = {Neurocomputing},  
+  volume = {458},  
+  pages = {232-245},  
+  year = {2021}  
 }
